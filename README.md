@@ -54,5 +54,4 @@ Campus reserves the right to modify or update the App and this EULA at any time.
 
 ### Contact Information
 
-For support or legal inquiries, users can contact adam@campusapp.io.
-"""
+For support or legal inquiries, users can contact adam@campusapp.io
